@@ -10,7 +10,8 @@
 
 DeepFake detection faces challenges from diverse synthesis methods like **Faceswap**, **Deepfakes**, **Face2Face**, and **NeuralTextures**, which traditional machine learning models struggle to generalize across. Inspired by **differential gene expression** in biological systems, **SFE-Net** introduces a novel mechanism to dynamically prioritize critical features while suppressing irrelevant cues. This results in enhanced generalization and performance across varied DeepFake generation techniques.
 
-![alt text](image.png)
+![alt text](Image/Architecture.png)
+
 
 Key highlights:
 - Bio-inspired **Selective Feature Activation** for dynamic response.
